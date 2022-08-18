@@ -7,6 +7,8 @@ def subtract(x, y):
     return x - y
 
 # divide function
+def divide(x, y):
+    return x / y
 
 # mulitiply function
 
