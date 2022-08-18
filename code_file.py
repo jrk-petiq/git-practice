@@ -5,6 +5,7 @@ def add(x, y):
 # subtract function
 def subtract(x, y):
     return x - y
+    # added comment
 
 # divide function
 def divide(x, y):
