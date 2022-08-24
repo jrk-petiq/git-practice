@@ -11,7 +11,4 @@ def subtract(x, y):
 def divide(x, y):
     return x / y
 
-# mulitiply function
-def multiply(x, y):
-    return x * y
 
